@@ -1,8 +1,18 @@
 # PythonServer
 
-Flask框架实现的一个微型HTTP服务器，没有使用到数据库，不适合生产使用，只是用于熟悉Flask的使用
+##文档传送门:
+
+###[零基础学Python](http://python.xiaoleilu.com/index.html "零基础学Python")
+###[Flask快速入门](http://docs.jinkan.org/docs/flask/quickstart.html "快速入门")
+
+
 
 ---
+
+##实际应用（针对本项目）
+
+	Flask框架实现的一个微型HTTP服务器，没有使用到数据库，不适合生产使用，只是用于熟悉Flask的使用
+
 ###环境配置
 
 #### 安装 `pip`
@@ -41,3 +51,10 @@ if __name__ == '__main__':
 
 
 ---
+
+
+
+
+
+
+
